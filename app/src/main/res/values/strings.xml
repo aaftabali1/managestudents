@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_add_student">Add Student</string>
+    <string name="title_add_marks">Add Marks</string>
+    <string name="enter_roll_no">Enter Roll No.</string>
+    <string name="student_s_name">Student\'s Name</string>
+</resources>
